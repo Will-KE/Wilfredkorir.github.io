@@ -82,7 +82,7 @@
     
     .home {
         display: flex;
-        background-color: #2f4f4f;
+        background: #2f4f4f;
         height: 100vh;
         color: beige;
         min-height: 500px;
