@@ -1,10 +1,11 @@
+/*Default css settings*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
 }
-
+/*This is the html scroll behaviour*/
 html {
     scroll-behavior: smooth;
 }
