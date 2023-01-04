@@ -275,6 +275,7 @@ section .title::after {
 
 .contact .contact-content .left .icon {
     margin: 10px 0;
+    font-size: 25px;
 }
 
 .contact .contact-content .row {
