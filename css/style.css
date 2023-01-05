@@ -237,7 +237,7 @@ section .title::after {
     font-size: 20px;
 }
 
-.about .about-content .right a {
+.about .about-content .right a, .social_icons {
     display: inline-block;
     background-color: brown;
     color: whitesmoke;
