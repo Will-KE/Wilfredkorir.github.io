@@ -70,7 +70,7 @@ html {
     transition: color 0.3s ease;
 }
 
-.navbar .menu li a:hover {
+.navbar .menu li a:hover, .social_icons {
     color: brown;
 }
 
