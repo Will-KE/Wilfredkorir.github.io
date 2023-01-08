@@ -29,7 +29,7 @@ html {
 }
 
 .navbar.sticky {
-    background: #A2A2A2;
+    background: #FECD45;
     padding: 15px 0;
 }
 
@@ -89,7 +89,7 @@ html {
 
 .home {
     display: flex;
-    background: #FDF5DF;
+    background: #FECD45;
     height: 100vh;
     color: whitesmoke;
     min-height: 500px;
