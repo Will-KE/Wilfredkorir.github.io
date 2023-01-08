@@ -89,7 +89,7 @@ html {
 
 .home {
     display: flex;
-    background: #FECD45;
+    background: ##E1FCFD;
     height: 100vh;
     color: whitesmoke;
     min-height: 500px;
