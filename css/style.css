@@ -37,11 +37,11 @@ html {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: whitesmoke;
+    color: #212221;
 }
 
 .navbar .logo a {
-    color: whitesmoke;
+    color: #212221;
     font-size: 35px;
     font-weight: 600;
 }
@@ -52,7 +52,7 @@ html {
 }
 
 .navbar.sticky a span {
-    color: whitesmoke;
+    color: #212221;
     transition: all 0.3s ease;
 }
 
@@ -63,7 +63,7 @@ html {
 
 .navbar .menu li a {
     display: block;
-    color: whitesmoke;
+    color: #212221;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -78,7 +78,7 @@ html {
 /*menu btn styling*/
 
 .menu-btn {
-    color: whitesmoke;
+    color: #212221;
     font-size: 24px;
     cursor: pointer;
     display: none;
@@ -91,7 +91,7 @@ html {
     display: flex;
     background: #F7F4E9;
     height: 100vh;
-    color: whitesmoke;
+    color: #212221;
     min-height: 500px;
     font-family: 'openSans', sans-serif;
 }
