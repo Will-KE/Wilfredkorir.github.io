@@ -70,7 +70,7 @@ html {
     transition: color 0.3s ease;
 }
 
-.navbar .menu li a:hover, .social_icons {
+.navbar .menu li a:hover{
     color: brown;
 }
 
@@ -237,7 +237,7 @@ section .title::after {
     font-size: 20px;
 }
 
-.about .about-content .right a, .social_icons {
+.about .about-content .right a{
     display: inline-block;
     background-color: brown;
     color: whitesmoke;
