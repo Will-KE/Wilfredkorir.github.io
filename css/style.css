@@ -122,7 +122,8 @@ html {
 .icons{
     display: block;
     color: whitesmoke;
-    font: 24px;
+    font-size: 19px;
+    margin: 0 14px 0 0;
 }
 
 /*all similar content styling code*/
