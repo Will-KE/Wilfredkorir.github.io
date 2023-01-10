@@ -119,7 +119,7 @@ html {
     color: brown;
     font-weight: 600;
 }
-.icons{
+.social_buttons{
     display: block;
     color: whitesmoke;
     font-size: 19px;
@@ -128,22 +128,22 @@ html {
 
 
 .fa {
-     padding: 20px;
-                            font-size: 30px;
-                            width: 50px;
-                            text-align: center;
-                            text-decoration: none;
-                            border-radius: 50%;
-                        }
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+     }
                         
-                        .fa:hover {
-                            opacity: 0.7;
-                        }
+  .fa:hover {
+   opacity: 0.7;
+   }
                         
-                        .fa-twitter {
-                            background: #55ACEE;
-                            color: white;
-                        }
+  .fa-twitter {
+   background: #55ACEE;
+   color: black;
+   }
   
   
 
