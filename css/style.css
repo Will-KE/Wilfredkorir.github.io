@@ -140,7 +140,7 @@ html {
    opacity: 0.7;
    }
                         
-  .fa-twitter {
+  .fa-twitter, .fa-github {
    background: #55ACEE;
    color: black;
    }
